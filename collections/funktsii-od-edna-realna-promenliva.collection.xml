@@ -1,0 +1,23 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10490</md:content-id>
+    <md:title>Функции од една реaлнa промeнлива</md:title>
+    <md:language>mk</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>8b7e2412-60e7-4e46-98a6-d3975daf71fd</md:uuid>
+<md:slug>funktsii-od-edna-realna-promenliva</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m44981"/>
+    <col:module document="m15511"/>
+    <col:module document="m47795"/>
+    <col:module document="m15449"/>
+    <col:module document="m15450"/>
+    <col:module document="m15451"/>
+    <col:module document="m15115"/>
+    <col:module document="m15561"/>
+    <col:module document="m35940"/>
+    <col:module document="m43053"/>
+    <col:module document="m15562"/>
+  </col:content>
+</col:collection>
