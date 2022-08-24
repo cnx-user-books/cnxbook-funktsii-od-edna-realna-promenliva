@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk" authors="Liljana Stefanovska">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10490</md:content-id>
-    <md:title>Функции од една реaлнa промeнлива</md:title>
+    <md:title>&#x424;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x438; &#x43E;&#x434; &#x435;&#x434;&#x43D;&#x430; &#x440;&#x435;a&#x43B;&#x43D;a &#x43F;&#x440;&#x43E;&#x43C;e&#x43D;&#x43B;&#x438;&#x432;&#x430;</md:title>
     <md:language>mk</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>8b7e2412-60e7-4e46-98a6-d3975daf71fd</md:uuid>
-<md:slug>funktsii-od-edna-realna-promenliva</md:slug>
-</metadata>
+    <md:slug>funktsii-od-edna-realna-promenliva</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m44981"/>
     <col:module document="m15511"/>
